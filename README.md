@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there, I 'm Yousef Nabil
 
+
+I am a passinate Computer engineering student 
 <!--
 **Yousef-nabil/yousef-nabil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
