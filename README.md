@@ -37,3 +37,8 @@ My internship at **Siemens** and my role as a **Robotics Instructor at StemZone*
 
 
 I am excited to leverage my skills and experiences to contribute to **cutting-edge projects** and continue my **journey of learning and professional development** in the field of **computer engineering**.  
+
+
+### Tech Stack
+---
+Programming languages 
