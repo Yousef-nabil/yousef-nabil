@@ -39,6 +39,24 @@ My internship at **Siemens** and my role as a **Robotics Instructor at StemZone*
 I am excited to leverage my skills and experiences to contribute to **cutting-edge projects** and continue my **journey of learning and professional development** in the field of **computer engineering**.  
 
 
-### Tech Stack
+
 ---
-Programming languages 
+
+## 🛠 Tech Stack
+
+### Programming Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Concepts
+![Data Structures](https://img.shields.io/badge/Data%20Structures-0078D4?style=for-the-badge&logo=codeforces&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-800080?style=for-the-badge&logo=abstract&logoColor=white)
+
+### Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+
+
